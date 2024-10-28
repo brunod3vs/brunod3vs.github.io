@@ -2,4 +2,4 @@
 Projeto Pessoal
 
 Minha pagina About Me.
-acesse aqui: https://brunod3vs.github.io
+acesse aqui: https://brunod3v.vercel.app
